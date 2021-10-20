@@ -1,0 +1,5 @@
+notebooks/images/gtfs.png filter=lfs diff=lfs merge=lfs -text
+data/graph_reverse.pickle filter=lfs diff=lfs merge=lfs -text
+data/A_08.pickle filter=lfs diff=lfs merge=lfs -text
+data/A_096.pickle filter=lfs diff=lfs merge=lfs -text
+data/A_base1.pickle filter=lfs diff=lfs merge=lfs -text
